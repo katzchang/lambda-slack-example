@@ -1,0 +1,12 @@
+.*
+!.git*
+
+bin
+lib
+local
+include
+*.pyc
+
+lambda.zip
+pip-selfcheck.json
+
